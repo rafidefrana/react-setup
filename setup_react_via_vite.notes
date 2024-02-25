@@ -1,0 +1,32 @@
+[javascript]
+Library
+
+== react js setup via vite ==
+[!] Wajib install dulu npm, pnpm atau yarn
+
+[npm]
+[!] - npm create vite@latest nama-projek
+- pilih react
+- pilih javascript
+- cd nama-projek
+- npm install
+- npm run dev
+
+
+[pnpm]
+[!] - pnpm create vite@latest nama-projek
+- pilih react
+- pilih javascript
+- cd nama-projek
+- pnpm install
+- pnpm run dev
+
+
+[yarn]
+[!] - yarn create vite@latest nama-projek
+- pilih react
+- pilih javascript
+- cd nama-projek
+- yarn install
+- yarn run dev
+
