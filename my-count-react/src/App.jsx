@@ -6,6 +6,7 @@ import { useState } from 'react';
 import './App.css'
 
 function App() {
+  // count itu nama variabelnya set count itu nama fungsinya usestate 0 itu default react
   let [count, setCount] = useState(0);
 
   const addToCount = () => {
